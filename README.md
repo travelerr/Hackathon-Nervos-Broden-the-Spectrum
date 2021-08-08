@@ -4,8 +4,8 @@ My CKB Address: ckb1qyq0x8pn75q6tfxl3lmhdcsvewqc0xhmk4lqfws0e9
 
 ## Gitcoin: 1) Create a Godwoken Account on the EVM Layer 2 Testnet
 
-- [x] [Screenshot of account list command on ckb-cli](./01-task/01-account-list-ckb-cli.png)
-- [x] [A link to the Layer 1 Address funded](https://explorer.nervos.org/aggron/address/ckt1qyq8jjclvxh9259kvnpx9rx2ucdrdj0scvqsyctfuy)
+- [x] [Screenshot of account list command on ckb-cli](Hackathon-Nervos-Broden-the-Spectrum/blob/main/Screen%20Shot%202021-08-08%20at%206.20.19%20PM.png)
+- [x] [A link to the Layer 1 Address funded](https://explorer.nervos.org/aggron/address/ckt1qyqtgqefuk4gwsyjmj0ljn2d6sh4f5txqndsjtfy9t)
 - [x] [Screenshot of deposit to Layer 2](./01-task/01-ckb-send-layer-2.png)
 
 ## Gitcoin: 2) Deploy a Simple Ethereum Smart Contract on Polyjuice
